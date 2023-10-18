@@ -1,6 +1,9 @@
 ## Getting Started
+Contributors: Bryce Chao
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple snake game in Java built using vscode.
+Make sure to install vscode and extensions to run properly here:
+https://code.visualstudio.com/docs/languages/java
 
 ## Folder Structure
 
